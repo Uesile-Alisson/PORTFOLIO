@@ -76,4 +76,4 @@ Ano: 2026
 
 URL da solução no GitHub: https://github.com/Uesile-Alisson/PORTFOLIO.git
 
-URL do site ao vivo: 
+URL do site ao vivo: https://uesileportfolio.netlify.app/
